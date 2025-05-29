@@ -201,7 +201,7 @@ const projects = [
     source_code_link: "https://github.com/aryankuril/Apple-website",
   },
   {
-    name: " Amazon clone",
+    name: " Shopping Cart",
     description:
       "A dynamic e-commerce website clone featuring product catalog, responsive design, and user-friendly navigation, mirroring amazon's core functionality.",
     tags: [
